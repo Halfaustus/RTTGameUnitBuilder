@@ -1,0 +1,103 @@
+{
+    "sources":  [
+                    {
+                        "localSha256":  "8C65463928BFF3E0F81957CC249052212F66578F08F98AD822D20AB8839F82D0",
+                        "local":  "design/UNIT_CONFIGURATION.md",
+                        "adaptation":  "仅删除外部数据来源叙述及关系表的来源字段列；保留所有本项目规则列及禁止项。",
+                        "source":  "C:\\Projects\\RTTGame\\docs\\constraints\\design\\UNIT_CONFIGURATION.md",
+                        "sourceSha256":  "24590722F3B28E90E98DF20EC1A5098F4CD1F0836C35CF83B9819A7B74A276D2"
+                    },
+                    {
+                        "localSha256":  "605A1B42BCC48C480892448B263FF35CE39212B2F9CA528CBEECB0D95E49E40F",
+                        "local":  "design/OUT_OF_MATCH.md",
+                        "adaptation":  "none",
+                        "source":  "C:\\Projects\\RTTGame\\docs\\constraints\\design\\OUT_OF_MATCH.md",
+                        "sourceSha256":  "605A1B42BCC48C480892448B263FF35CE39212B2F9CA528CBEECB0D95E49E40F"
+                    },
+                    {
+                        "localSha256":  "27A9C9F0E7ABACAA150970914180A14B01BE7983EBC7B8639A13E3B1D989A35D",
+                        "local":  "design/DEPLOYMENT_ECONOMY.md",
+                        "adaptation":  "none",
+                        "source":  "C:\\Projects\\RTTGame\\docs\\constraints\\design\\DEPLOYMENT_ECONOMY.md",
+                        "sourceSha256":  "27A9C9F0E7ABACAA150970914180A14B01BE7983EBC7B8639A13E3B1D989A35D"
+                    },
+                    {
+                        "localSha256":  "993AAE6B40B7D100851709077EB0B235A9966936271A57BC68D868F8070E876A",
+                        "local":  "design/MOVEMENT_COMMANDS.md",
+                        "adaptation":  "none",
+                        "source":  "C:\\Projects\\RTTGame\\docs\\constraints\\design\\MOVEMENT_COMMANDS.md",
+                        "sourceSha256":  "993AAE6B40B7D100851709077EB0B235A9966936271A57BC68D868F8070E876A"
+                    },
+                    {
+                        "localSha256":  "A5156334DE697293A7C6B8B692B42F00065597D3344D652C0B7D476CE79F5AEA",
+                        "local":  "design/COMBAT_RULES.md",
+                        "adaptation":  "none",
+                        "source":  "C:\\Projects\\RTTGame\\docs\\constraints\\design\\COMBAT_RULES.md",
+                        "sourceSha256":  "A5156334DE697293A7C6B8B692B42F00065597D3344D652C0B7D476CE79F5AEA"
+                    },
+                    {
+                        "localSha256":  "ABDE2D26A1F31F1FF1240FFD4B33FE9D7E7B5696BB528F3D11678E06E9C97368",
+                        "local":  "design/PROJECTILES.md",
+                        "adaptation":  "none",
+                        "source":  "C:\\Projects\\RTTGame\\docs\\constraints\\design\\PROJECTILES.md",
+                        "sourceSha256":  "ABDE2D26A1F31F1FF1240FFD4B33FE9D7E7B5696BB528F3D11678E06E9C97368"
+                    },
+                    {
+                        "localSha256":  "D77909868B2770C694AD8763A94A4B4730183711A5282089AF33A7D8DD20B101",
+                        "local":  "design/TRANSPORT_LOGISTICS.md",
+                        "adaptation":  "none",
+                        "source":  "C:\\Projects\\RTTGame\\docs\\constraints\\design\\TRANSPORT_LOGISTICS.md",
+                        "sourceSha256":  "D77909868B2770C694AD8763A94A4B4730183711A5282089AF33A7D8DD20B101"
+                    },
+                    {
+                        "localSha256":  "06F58EC1B7EEA6F214F10E4BB16CD69B1AE3343F1691528B545881201BCEC271",
+                        "local":  "design/WORLD_VISIBILITY.md",
+                        "adaptation":  "none",
+                        "source":  "C:\\Projects\\RTTGame\\docs\\constraints\\design\\WORLD_VISIBILITY.md",
+                        "sourceSha256":  "06F58EC1B7EEA6F214F10E4BB16CD69B1AE3343F1691528B545881201BCEC271"
+                    },
+                    {
+                        "localSha256":  "B6242C4807243449F53245210D2A4C14A7A794321931B79640A0418C6639E59A",
+                        "local":  "design/UI_INPUT.md",
+                        "adaptation":  "none",
+                        "source":  "C:\\Projects\\RTTGame\\docs\\constraints\\design\\UI_INPUT.md",
+                        "sourceSha256":  "B6242C4807243449F53245210D2A4C14A7A794321931B79640A0418C6639E59A"
+                    },
+                    {
+                        "localSha256":  "E2E83932E9629F05CFC6B9F9ADE2635451A281AC7838CF24013600C90AA820D2",
+                        "local":  "design/MATCH_MISSION.md",
+                        "adaptation":  "none",
+                        "source":  "C:\\Projects\\RTTGame\\docs\\constraints\\design\\MATCH_MISSION.md",
+                        "sourceSha256":  "E2E83932E9629F05CFC6B9F9ADE2635451A281AC7838CF24013600C90AA820D2"
+                    },
+                    {
+                        "localSha256":  "E8D322C7D65976C03AA2F817780BDE9833387701427DCDB4108BDBE8085581A2",
+                        "local":  "design/PENDING_DECISIONS.md",
+                        "adaptation":  "none",
+                        "source":  "C:\\Projects\\RTTGame\\docs\\constraints\\design\\PENDING_DECISIONS.md",
+                        "sourceSha256":  "E8D322C7D65976C03AA2F817780BDE9833387701427DCDB4108BDBE8085581A2"
+                    },
+                    {
+                        "localSha256":  "016EB6001E3AE57D063AC24B6172BBBCD3448694087263056545A117F8B0D1BC",
+                        "local":  "design/FUTURE_PVP.md",
+                        "adaptation":  "none",
+                        "source":  "C:\\Projects\\RTTGame\\docs\\constraints\\design\\FUTURE_PVP.md",
+                        "sourceSha256":  "016EB6001E3AE57D063AC24B6172BBBCD3448694087263056545A117F8B0D1BC"
+                    },
+                    {
+                        "localSha256":  "0113889F5046869610F5195D7751A31A76D4417C208BD9019C25D9892D8C9AC0",
+                        "local":  "docs/RTT_GAME_DATA.xlsx",
+                        "adaptation":  "none",
+                        "source":  "C:\\Projects\\RTTGame\\docs\\RTT_GAME_DATA.xlsx",
+                        "sourceSha256":  "0113889F5046869610F5195D7751A31A76D4417C208BD9019C25D9892D8C9AC0",
+                        "authorship":  {
+                                           "status":  "本项目接受为安全原创资料；不是第三方全库比对或外部时间鉴证",
+                                           "timing":  "创作早于BAMS引用",
+                                           "basis":  "用户明确声明",
+                                           "author":  "用户个人原创"
+                                       }
+                    }
+                ],
+    "scope":  "只读来源、本地副本；未同步外部工程；非本项目职责的技术契约不引入",
+    "baseline":  "DB-2026-10-06-40"
+}
